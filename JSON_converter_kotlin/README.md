@@ -1,4 +1,3 @@
-# PA_23
 
 Utilização da biblioteca:
 
